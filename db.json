@@ -1,0 +1,28 @@
+Chelito — hoy a las 15:32
+{
+    "scores": 
+    {
+        "scores":   [
+      {
+        "user_id": "Mariano",
+        "score": 200
+      },
+      {
+        "user_id":"Rebok",
+        "score":198
+      },
+      {
+        "user_id":"Lucía",
+        "score": 50
+      },
+      {
+        "user_id":"Diego",
+        "score": 25
+      },
+      {
+        "user_id":"Juan",
+        "score": 13
+      }
+        ] 
+    }
+  }
